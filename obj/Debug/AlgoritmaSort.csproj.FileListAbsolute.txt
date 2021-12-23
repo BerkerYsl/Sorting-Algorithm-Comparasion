@@ -1,0 +1,10 @@
+C:\Users\berke\OneDrive\Masaüstü\c# apps\AlgoritmaSort\AlgoritmaSort\bin\Debug\AlgoritmaSort.exe.config
+C:\Users\berke\OneDrive\Masaüstü\c# apps\AlgoritmaSort\AlgoritmaSort\bin\Debug\AlgoritmaSort.exe
+C:\Users\berke\OneDrive\Masaüstü\c# apps\AlgoritmaSort\AlgoritmaSort\bin\Debug\AlgoritmaSort.pdb
+C:\Users\berke\OneDrive\Masaüstü\c# apps\AlgoritmaSort\AlgoritmaSort\obj\Debug\AlgoritmaSort.csprojAssemblyReference.cache
+C:\Users\berke\OneDrive\Masaüstü\c# apps\AlgoritmaSort\AlgoritmaSort\obj\Debug\AlgoritmaSort.Form1.resources
+C:\Users\berke\OneDrive\Masaüstü\c# apps\AlgoritmaSort\AlgoritmaSort\obj\Debug\AlgoritmaSort.Properties.Resources.resources
+C:\Users\berke\OneDrive\Masaüstü\c# apps\AlgoritmaSort\AlgoritmaSort\obj\Debug\AlgoritmaSort.csproj.GenerateResource.cache
+C:\Users\berke\OneDrive\Masaüstü\c# apps\AlgoritmaSort\AlgoritmaSort\obj\Debug\AlgoritmaSort.csproj.CoreCompileInputs.cache
+C:\Users\berke\OneDrive\Masaüstü\c# apps\AlgoritmaSort\AlgoritmaSort\obj\Debug\AlgoritmaSort.exe
+C:\Users\berke\OneDrive\Masaüstü\c# apps\AlgoritmaSort\AlgoritmaSort\obj\Debug\AlgoritmaSort.pdb
